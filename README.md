@@ -7,7 +7,7 @@ The purpose of this project showcases my skills, projects, and achievements. It 
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Running the Project](#running-the-project)
+- [Usage](#usage)
 
 ## Getting Started
 
@@ -21,28 +21,28 @@ The purpose of this project showcases my skills, projects, and achievements. It 
 git clone https://github.com/yourusername/your-project.git
 
 2. Navigate to the project directory:
+cd viteF-project
 
 3. Install project dependencies:
 
 devDependecy: vite@latest
 
--vue v3 <br>
--vue-router <br>
--bootstrap@latest <br>
--bootstrap icons <br>
--vuelidate/core <br>
--vuelidate/validators <br>
--@formkit/auto-animate <br>
--rough-notation (JS library for highlight effects) <br>
--firebase (optional - only for hosting <br>
+-vue v3
+-vue-router
+-bootstrap@latest
+-bootstrap icons
+-vuelidate/core
+-vuelidate/validators
+-@formkit/auto-animate
+-firebase
 
 ### Running the Project:
 
-1. Start the development server:
+1.Start the development server:
 
 npm run dev
 
-2. Open the local web browser to access the application eg `http://localhost:3000`
+2.Open the local web browser to access the application eg `http://localhost:3000`
 
 ## Recommended IDE Setup
 
